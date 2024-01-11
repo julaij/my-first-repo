@@ -1,2 +1,4 @@
-# my-first-repo
+# my-first-repo  
 My first repository.
+Name: Julai Dangol
+Address: Maryville, MO
