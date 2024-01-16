@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Apple
 Banyan
 Cedar
 Dogwood
 Elm
+=======
+Alder
+Baobab  
+Cherry
+Dogwood 
+Elm 
+>>>>>>> alternative
